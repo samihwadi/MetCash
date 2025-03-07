@@ -4,6 +4,7 @@
 </h1>
 
 A Java-based Graphical User Interface (GUI) ATM system with a strong focus on providing users with a secure and user-friendly platform for conducting transactions.
+
 ## Overview
 
 The ATM Project is designed to mimic the functionality of an Automated Teller Machine (ATM). It provides features such as user authentication, account balance inquiries, cash withdrawals, fund transfers, and more. The project utilizes Java Swing for the graphical user interface (GUI) and follows object-oriented principles for modular and extensible code.
